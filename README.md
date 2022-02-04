@@ -1,5 +1,7 @@
 # SciKit-GStat publication companion code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5970217.svg)](https://doi.org/10.5281/zenodo.5970217)
+
 This is the companion code for Mälicke (2021).
 
 The version Revision 1 (0.2.0) contains all adaptions made to the plots due to the open discussion.
